@@ -4,9 +4,6 @@
 
 > replaced 5 paid tools. one weekend. zero subscriptions.
 
-[\![curated by](https://img.shields.io/badge/curated%20by-%40seelffff-5B5BD6?style=flat-square)](https://x.com/seelffff)
-[\![total saved](https://img.shields.io/badge/saved-%2414%2C000%2Fyear-16A34A?style=flat-square)](#)
-[\![repos](https://img.shields.io/badge/repos-5-0D0D14?style=flat-square)](#)
 
 </div>
 
@@ -123,6 +120,5 @@ curl -fsSL https://raw.githubusercontent.com/makeplane/plane/master/deploy/selfh
 
 **$14,000/year saved · 5 repos · one weekend to set up**
 
-follow [@seelffff](https://x.com/seelffff) on x for more
 
 </div>
